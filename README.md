@@ -1,4 +1,4 @@
-The Statue Sanctuary
+#The Statue Sanctuary
 
 This is a fun little project that was originally made as a university assignment and which I have since adapted and refined on my own time.
 
