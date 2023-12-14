@@ -9,3 +9,27 @@ Dark grey: #1B1819
 (alt dark grey: #0F0F0F)
 
 */
+
+/*General Styling*/
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+h1 {
+  color: #AE0704;
+  font-family: 'Gentium Plus', serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+h2 {
+  color: #0B416B;
+  font-family: 'Gentium Plus', serif;
+  font-size: 28px;
+  font-style: italic;
+}
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 17px;
+}
+img {
+  max-width: 100%;
+}
